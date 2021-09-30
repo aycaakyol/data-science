@@ -8,3 +8,7 @@ Desicion Tree Regressor, Random Tree Regressor and MLP Regressor and splitting t
 
 There graphs for each internal and external metric. The plots show original and predicted values. Also for each plot, root mean squared error and r^2 values are
 calculated.
+
+
+*** Unfortunately, probably due to problems with github's backend; you may not be able to view this file. However you can successfully view it by typing my username
+"aycaakyol" in https://nbviewer.jupyter.org/ 
